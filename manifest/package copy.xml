@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>AdoptionReports/Users_Not_Logged_in_Last_7_Days_SSh</members>
+		<members>GlobalSalesReports/Opportunities_by_Rep_Qx4</members>
+		<members>GlobalSalesReports/Opportunities_by_Rep_and_Close_Month_Nfp</members>
+		<members>GlobalSalesReports/Pipeline_Matrix_Report_Current_FQ_lJE</members>
+		<members>GlobalSalesReports/Sales_Rep_Win_Rates_Yqh</members>
+		<members>MarketingReports/Central_and_Eastern_Target_Accounts_XuX</members>
+		<members>unfiled$public/flow_screen_prebuilt_report</members>
+		<name>Report</name>
+	</types>
+    	<types>
+		<members>GlobalSalesDashboards/solHivgAjFYpLNzqRDgjceWEBqhmRJ</members>
+		<name>Dashboard</name>
+	</types>
+	<version>53.0</version>
+</Package>
